@@ -1,0 +1,10 @@
+IDE:
+
+format code:
+command + option + L
+
+search code:
+command + shift + f
+
+auto import:
+option + enter
